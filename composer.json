@@ -2,7 +2,7 @@
   "name": "froala/craft-froala-wysiwyg",
   "description": "Craft 3 CMS plugin for Froala WYSIWYG HTML Rich Text Editor.",
   "type": "craft-plugin",
-  "version": "4.1.9",
+  "version": "6.0.0",
   "keywords": [
     "craft",
     "craftcms",
@@ -31,6 +31,6 @@
     "documentationUrl": "https://github.com/froala/Craft-3-Froala-WYSIWYG/blob/master/README.md"
   },
   "dependencies": {
-    "froala-editor": "4.1.9"
+    "froala-editor": "6.0.0"
   }
 }
